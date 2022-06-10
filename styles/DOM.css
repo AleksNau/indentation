@@ -32,11 +32,11 @@
 .border {
     border-top: solid 1px;
 }
-.article__image-recipe {
 
+.article__image-recipe1 {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 30px;
-    display: block;
 }
 
