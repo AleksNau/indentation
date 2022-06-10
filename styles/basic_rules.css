@@ -1,0 +1,34 @@
+.article__title {
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 30px;
+    line-height: 120%;
+}
+
+.article__paragraph-float:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.image-left {
+    float: left;
+    overflow: hidden;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+.image-right {
+    float: right;
+    padding: 0;
+    margin-left: 40px;
+}
+
+
+.article__conteiner-float {
+    overflow: hidden;
+}
+
+
+.article__item:not(:last-child) {
+    margin-bottom: 10px;
+}

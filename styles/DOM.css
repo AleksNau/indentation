@@ -1,0 +1,34 @@
+
+.article__image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article__image:not(:first-child) {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.article__image:last-child{
+    padding-top: 30px;
+    padding-bottom: 0;
+}
+
+.article__figure {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.article__figcaption {
+    font-weight: 700;
+    font-size: 20px;
+    color: #5E5E5E;
+    padding: 15px 30px;
+    border: 1px solid #000000;
+    border-top: none;
+
+}
+
+.border {
+    border-top: solid 1px;
+}

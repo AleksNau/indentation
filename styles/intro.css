@@ -1,0 +1,60 @@
+.article {
+    margin: 0 auto;
+    padding: 60px 0 50px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 120%;
+    font-weight: 400;
+    width: 1140px;
+}
+
+.article__section {
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.article__link {
+    color: #02535F;
+}
+
+.article__menu {
+    background: #F1F1F1;
+    border-radius: 10px;
+    padding: 25px 45px;
+    list-style-type: none;
+}
+
+.article__list{
+    list-style: numeric;
+}
+.title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.article__conteiner {
+    padding-top: 50px;
+}
+
+.article__link {
+    padding-left: 0;
+    text-decoration: underline;
+}
+
+.article__list {
+    padding-left: 21px;
+}
+
+.cont {
+    width: 1080px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: 700;
+}
