@@ -58,3 +58,11 @@
 .strong {
     font-weight: 700;
 }
+
+
+.article__image-recipe {
+    display: block;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
