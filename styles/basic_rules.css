@@ -32,7 +32,8 @@
 .article__item:not(:last-child) {
     margin-bottom: 10px;
 }
-.conteiner{
+
+.conteiner {
     padding-left: 30px;
     padding-right: 30px;
 }
