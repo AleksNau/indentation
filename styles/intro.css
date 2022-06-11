@@ -18,7 +18,7 @@
     color: #02535F;
 }
 
-.article__menu {
+.article__box-grey {
     min-width: 1140px;
     background: #F1F1F1;
     border-radius: 10px;
@@ -30,6 +30,8 @@
     list-style: numeric;
 }
 .title {
+    margin-top: 0;
+    margin-bottom: 30px;
     font-weight: 900;
     font-size: 60px;
     line-height: 120%;
