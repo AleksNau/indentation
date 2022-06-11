@@ -1,7 +1,7 @@
 .article {
     margin: 0 auto;
     padding: 60px 0 50px;
-    font-family: Roboto;
+    font-family: Roboto,sans-serif;
     font-size: 20px;
     line-height: 120%;
     font-weight: 400;
