@@ -11,14 +11,20 @@
     font-display: swap;
 }
 @font-face {
-    font-family: Inter;
+    font-family: Roboto;
     src: local("Roboto-Italic"),local("Roboto-Italic"), url("../fonts/Roboto-Italic.ttf") format("truetype");
     font-weight: 400;
     font-display: swap;
 }
 @font-face {
-    font-family: Inter;
+    font-family: Roboto;
     src: local("Roboto-Bold"),local("Roboto-Bold"), url("../fonts/Roboto-Bold.ttf") format("truetype");
     font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: Roboto;
+    src: local("Roboto-Black"),local("Roboto Black"), url("../fonts/Roboto-Black.ttf") format("truetype");
+    font-weight: 900;
     font-display: swap;
 }
