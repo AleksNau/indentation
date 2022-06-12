@@ -11,7 +11,7 @@
 }
 .article__image:last-child{
     padding-top: 30px;
-    padding-bottom: 0;
+    padding-bottom: 50px;
 }
 
 .article__figure {

@@ -8,10 +8,17 @@
     width: 1140px;
 }
 
-.article__section {
+.article__section:not(:first-child) {
     width: 1140px;
     padding-top: 50px;
     overflow: hidden;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.article__section:first-child {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
 }
 
 .article__link {
@@ -20,10 +27,10 @@
 
 .article__box-grey {
     min-width: 1140px;
-    background: #F1F1F1;
     border-radius: 10px;
     padding: 25px 45px;
     list-style-type: none;
+    background: #F1F1F1;
 }
 
 .article__list{
